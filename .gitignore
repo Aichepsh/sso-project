@@ -6,3 +6,4 @@
 vendor/
 .env
 .local.yaml
+.DS_Store
