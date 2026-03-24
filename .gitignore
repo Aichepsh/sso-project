@@ -5,3 +5,4 @@
 *.test
 vendor/
 .env
+.local.yaml
